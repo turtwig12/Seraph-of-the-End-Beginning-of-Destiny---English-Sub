@@ -12,3 +12,4 @@ try to replace the help buttons
 test on different devise
 get google drive (prefrebaly new) 
 run a few basic checks on ssb's
+make issue system
