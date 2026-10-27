@@ -18,7 +18,10 @@ todo before talking about repo
 • Test on different devices
 
 • Get Google Drive (preferably new)
+
 • Run a few basic checks on SSB's
+
 • Make issue system
+
 • Work out what license if any
 
