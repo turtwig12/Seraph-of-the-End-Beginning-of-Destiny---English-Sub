@@ -4,12 +4,15 @@ A Fan Sub of the PSVita game Seraph of the End: Beginning of Destiny
 
 todo before talking about repo
 
-translate aims
-translate last images
-replace last of the texts
-translate chapters
-try to replace the help buttons 
-test on different devise
-get google drive (prefrebaly new) 
-run a few basic checks on ssb's
-make issue system
+
+- [ ] Translate aims
+- [ ] Translate last images
+- [ ] Replace last of the texts
+- [ ] Translate chapters
+- [ ] Try to replace the help buttons
+- [ ] Test on different devices
+- [ ] Get Google Drive (preferably new)
+- [ ] Run a few basic checks on SSB's
+- [ ] Make issue system
+- [ ] Work out what license if any
+
