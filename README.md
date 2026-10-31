@@ -5,6 +5,5 @@ A Fan Sub of the PSVita game Seraph of the End: Beginning of Destiny
 todo before talking about repo
 
 
-• Translate last images
 • Test on different devices
 
