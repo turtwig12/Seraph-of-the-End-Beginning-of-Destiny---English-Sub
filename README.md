@@ -7,3 +7,4 @@ todo before talking about repo
 
 • Test on different devices
 
+https://vita3k.org/download
