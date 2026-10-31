@@ -9,6 +9,5 @@ todo before talking about repo
 • Translate last images
 • Translate chapters
 • Test on different devices
-• Get Google Drive (preferably new)
 • Work out what license if any
 
