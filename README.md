@@ -7,5 +7,4 @@ todo before talking about repo
 
 • Translate last images
 • Test on different devices
-• Work out what license if any
 
