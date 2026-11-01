@@ -11,3 +11,4 @@ I'm sure you'll figure out how to work it, I can finish a read me later, also it
 
 
 If you are reading this you are either looking at the history of the read me or it is like a day after I posted, I have found a very big crash problem give me like two hours to fix the folder and drive, I gave already found a fix
+give it like 20 minutes 
