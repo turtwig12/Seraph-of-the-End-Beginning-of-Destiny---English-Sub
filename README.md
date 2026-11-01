@@ -10,5 +10,4 @@ no this is not done, yes it may crash, yes some of the translations are not grea
 I'm sure you'll figure out how to work it, I can finish a read me later, also it has only been tested to mid way through scene 2 (out of 10) so if you try it good luck, I have +40hour in the game already I'll finish it at some point 
 
 
-If you are reading this you are either looking at the history of the read me or it is like a day after I posted, I have found a very big crash problem give me like two hours to fix the folder and drive, I gave already found a fix
-give it like 20 minutes 
+I do not advise running it due to stebility yet 
