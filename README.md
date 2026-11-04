@@ -3,11 +3,11 @@ A Fan Sub of the PSVita game Seraph of the End: Beginning of Destiny
 
 
 https://vita3k.org/download
+
+fixed download link
 https://drive.google.com/drive/folders/11vklgX9aFZlkR2JnBRPTcvlp6vYkkdAT?usp=sharing
 
 no this is not done, yes it may crash, yes some of the translations are not great but the first bit does work
 
-I'm sure you'll figure out how to work it, I can finish a read me later, also it has only been tested to mid way through scene 2 (out of 10) so if you try it good luck, I have +40hour in the game already I'll finish it at some point 
 
-
-I do not advise running it due to stebility yet 
+Stability is still an issue that is being worked on but the first two episodes should work... in theory... in game theory
