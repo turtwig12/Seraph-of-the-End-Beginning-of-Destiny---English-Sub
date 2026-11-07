@@ -8,8 +8,9 @@ https://drive.google.com/drive/folders/11vklgX9aFZlkR2JnBRPTcvlp6vYkkdAT?usp=sha
 
 no this is not done, yes it may crash, yes some of the translations are not great but the first bit does work
 
-
 Stability is still an issue that is being worked on but the first two episodes should work... in theory... in game theory
+
+please message me if you do try to play/load it, give me knowledge that it loads propaly, also I can help trouble shoot errors on setup if needed
 
 ## setup
 
