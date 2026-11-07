@@ -5,7 +5,7 @@ https://vita3k.org/download
 
 https://drive.google.com/drive/folders/11vklgX9aFZlkR2JnBRPTcvlp6vYkkdAT?usp=sharing
 
-no this is not done, yes it may crash, yes some of the translations are not great but the first bit does work
+I pretend that the options text does not exist
 
 Stability is still an issue that is being worked on but the first two episodes should work... in theory... in game theory
 
