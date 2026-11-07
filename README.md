@@ -21,3 +21,7 @@ follow a tutorial for this, you need to add files to it, there are a bunch of tu
 download the zip 
 
 import the zip (in files), this should then just work, though I may of just gaslight myself to the zip being formatted correctly  
+
+## current stability
+
+as of current [07/11/26] up to the end of chapter 3 is stable, with possible errors still in the second battle (Yui x Kim training) though it can be compleated
