@@ -25,3 +25,5 @@ import the zip (in files), this should then just work, though I may of just gasl
 ## current stability
 
 as of current [07/11/26 d/m/y] up to the end of chapter 3 is stable, with possible errors still in the second battle (Yui x Kim training) though it can be compleated
+
+also later wepon names may caouse crash (equipage_list_data.bin) 
