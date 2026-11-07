@@ -3,7 +3,6 @@ A Fan Sub of the PSVita game Seraph of the End: Beginning of Destiny
 
 https://vita3k.org/download
 
-fixed download link
 https://drive.google.com/drive/folders/11vklgX9aFZlkR2JnBRPTcvlp6vYkkdAT?usp=sharing
 
 no this is not done, yes it may crash, yes some of the translations are not great but the first bit does work
