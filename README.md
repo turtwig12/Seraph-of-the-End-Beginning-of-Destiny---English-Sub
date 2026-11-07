@@ -6,8 +6,6 @@ https://vita3k.org/download
 fixed download link
 https://drive.google.com/drive/folders/11vklgX9aFZlkR2JnBRPTcvlp6vYkkdAT?usp=sharing
 
-not that anyone is going to read this but I am about to update the drive
-
 no this is not done, yes it may crash, yes some of the translations are not great but the first bit does work
 
 
