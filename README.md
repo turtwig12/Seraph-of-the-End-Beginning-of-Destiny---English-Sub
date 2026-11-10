@@ -27,4 +27,4 @@ as of current [07/11/26 d/m/y] up to the end of chapter 3 is stable, with possib
 
 also later wepon names may caouse crash (equipage_list_data.bin) 
 
-4 hourceman of jhon names may casue crash (status_list_data.bin)
+4 hourceman of jhon names may casue crash (status_list_data.bin) if do cahnge rank to A++, A, B, etc
