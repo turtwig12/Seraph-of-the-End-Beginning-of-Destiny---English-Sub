@@ -26,8 +26,10 @@ unzip the folder and open Vita3K
 
 ### 2. Setting up the Emulator
 <img width="858" height="173" alt="image" src="https://github.com/user-attachments/assets/241dbfde-72b6-48ae-a6bf-7209f27f7ba0" />
+
 download the firmware (yes all 3, sometimes browsers can complain about the downloading but you can say to keep the files)
 <img width="583" height="140" alt="image" src="https://github.com/user-attachments/assets/92575916-58f0-450b-8744-101a9aaf65ff" />
+
 press the files button in the top corner and a dropdown menu will come up, press "Install Firmware (.PUP)" and pick the firmware just downloaded (do this for each of the files)
 
 ### 3. Installing the game
@@ -37,6 +39,7 @@ press the files button int eh top corner
 
 A dropdown menu will come up, press "Install Archive (.zip/.vpk/.vci)" and chose the zip which was downloaded
 <img width="647" height="145" alt="image" src="https://github.com/user-attachments/assets/c711bca2-51c7-4949-b5e4-df8dac315e73" />
+
 this can take take a few minutes but then the game should be able to be played and working
 
 
