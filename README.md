@@ -5,6 +5,10 @@ https://vita3k.org/download
 
 https://drive.google.com/drive/folders/11vklgX9aFZlkR2JnBRPTcvlp6vYkkdAT?usp=sharing
 
+https://github.com/turtwig12/Seraph-of-the-End-Beginning-of-Destiny---English-Sub#about-the-game
+https://github.com/turtwig12/Seraph-of-the-End-Beginning-of-Destiny---English-Sub#setup
+https://github.com/turtwig12/Seraph-of-the-End-Beginning-of-Destiny---English-Sub#current-stability
+
 I pretend that the options text does not exist
 
 Stability is still an issue that is being worked on but the first two episodes should work... in theory... in game theory
