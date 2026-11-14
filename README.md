@@ -28,6 +28,7 @@ unzip the folder and open Vita3K
 <img width="858" height="173" alt="image" src="https://github.com/user-attachments/assets/241dbfde-72b6-48ae-a6bf-7209f27f7ba0" />
 
 download the firmware (yes all 3, sometimes browsers can complain about the downloading but you can say to keep the files)
+
 <img width="583" height="140" alt="image" src="https://github.com/user-attachments/assets/92575916-58f0-450b-8744-101a9aaf65ff" />
 
 press the files button in the top corner and a dropdown menu will come up, press "Install Firmware (.PUP)" and pick the firmware just downloaded (do this for each of the files)
