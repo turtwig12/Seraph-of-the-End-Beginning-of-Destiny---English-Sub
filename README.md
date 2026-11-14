@@ -14,7 +14,8 @@ please message me if you do try to play/load it, give me knowledge that it loads
 ## About the game
 
 
-[![Watch the video](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://youtu.be/lRG7md_rFgw)
+[![Watch the video](<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6447b36b-06eb-4f5a-9a93-080ae7581282" />
+)](https://youtu.be/lRG7md_rFgw)
 
 
 
