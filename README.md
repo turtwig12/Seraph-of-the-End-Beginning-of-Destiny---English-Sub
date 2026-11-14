@@ -11,14 +11,17 @@ Stability is still an issue that is being worked on but the first two episodes s
 
 please message me if you do try to play/load it, give me knowledge that it loads propaly, also I can help trouble shoot errors on setup if needed
 
-## setup
+## Setup
 There are many video tutorials which probably do as good of a job if not better to help set up the emulator
 
 This can probably be done in under 10 minutes if you have good enough internet
+
+
 ### 1. Downloading the Emulator
 download vita3k for your system (https://vita3k.org/download)
 works with most os
 <img width="1660" height="462" alt="image" src="https://github.com/user-attachments/assets/5deadd0e-402c-4188-b96f-c92da1e13a31" />
+
 unzip the folder and open Vita3K
 
 ### 2. Setting up the Emulator
