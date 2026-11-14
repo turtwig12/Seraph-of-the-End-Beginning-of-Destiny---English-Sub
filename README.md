@@ -11,6 +11,10 @@ Stability is still an issue that is being worked on but the first two episodes s
 
 please message me if you do try to play/load it, give me knowledge that it loads propaly, also I can help trouble shoot errors on setup if needed
 
+## About the game
+
+In 2012, the world allegedly comes to an end at the hands of a "human-made" virus, ravaging the global populace and leaving only children under the age of thirteen untouched. It is at this time that vampires emerge from the recesses of the earth, likely followed by age-old horrors of the dark thought only to be myth. The vampires sweep the earth and claim it in a single violent stroke, subjugating the remnants of humanity and leading them beneath the surface to safety. This "protection" comes at the price of donating blood to their captors. At the age of twelve, Yuuichirou and his friend and fellow orphan Mikaela plotted to escape along with the children in Hyakuya Orphanage. However, this resulted in their deaths and Mikaela sacrifices himself in order for Yuuichirou to escape and be saved by members of the Moon Demon Company, an extermination unit of the Japanese Imperial Demon Army. Four years later, Yuuichiro dedicates his life to destroy vampires and seek revenge against them for murdering his "family".[https://vndb.org/v18452](.)
+
 ## Setup
 There are many video tutorials which probably do as good of a job if not better to help set up the emulator
 
@@ -41,7 +45,10 @@ A dropdown menu will come up, press "Install Archive (.zip/.vpk/.vci)" and chose
 
 <img width="647" height="145" alt="image" src="https://github.com/user-attachments/assets/c711bca2-51c7-4949-b5e4-df8dac315e73" />
 
-This can take take a few minutes but then the game should be able to be played and working
+This can take take a few minutes
+After importing the zip it can be played, compatibility may show up as Unknown, but this normally changes compatible after initial boot 
+<img width="1027" height="276" alt="image" src="https://github.com/user-attachments/assets/51361e41-9b23-4f5b-b3a6-e9a4e90b147f" />
+
 
 
 ## current stability
