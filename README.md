@@ -12,19 +12,24 @@ Stability is still an issue that is being worked on but the first two episodes s
 please message me if you do try to play/load it, give me knowledge that it loads propaly, also I can help trouble shoot errors on setup if needed
 
 ## setup
+There are many video tutorials which probably do as good of a job if not better to help set up the emulator
 
 download vita3k for your system (https://vita3k.org/download)
 works with most os
 <img width="1660" height="462" alt="image" src="https://github.com/user-attachments/assets/5deadd0e-402c-4188-b96f-c92da1e13a31" />
+unzip the folder and open Vita3K
+<img width="858" height="173" alt="image" src="https://github.com/user-attachments/assets/241dbfde-72b6-48ae-a6bf-7209f27f7ba0" />
+download the firmware (yes all 3, sometimes browsers can complain about the downloading but you can say to keep the files)
+<img width="583" height="140" alt="image" src="https://github.com/user-attachments/assets/92575916-58f0-450b-8744-101a9aaf65ff" />
+press the files button in the top corner and a dropdown menu will come up, press "Install Firmware (.PUP)" and pick the firmware just downloaded (do this for each of the files)
 
 
-follow a tutorial for this, you need to add files to it, there are a bunch of tutorials online, I will probably do something here to help settup at some point
 
-download the zip 
+download the zip (https://drive.google.com/drive/folders/11vklgX9aFZlkR2JnBRPTcvlp6vYkkdAT?usp=sharing, assuming I remembered to do all the uploads correctly)
 
 press the files button int eh top corner
 
-a dropdown menu will come up, press "Install Archive (.zip/.vpk/.vci)" and chose the zip which was downloaded
+A dropdown menu will come up, press "Install Archive (.zip/.vpk/.vci)" and chose the zip which was downloaded
 <img width="647" height="145" alt="image" src="https://github.com/user-attachments/assets/c711bca2-51c7-4949-b5e4-df8dac315e73" />
 
 
