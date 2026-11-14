@@ -15,6 +15,8 @@ please message me if you do try to play/load it, give me knowledge that it loads
 
 download vita3k for your system (https://vita3k.org/download)
 works with most os
+<img width="1660" height="462" alt="image" src="https://github.com/user-attachments/assets/5deadd0e-402c-4188-b96f-c92da1e13a31" />
+
 
 follow a tutorial for this, you need to add files to it, there are a bunch of tutorials online, I will probably do something here to help settup at some point
 
