@@ -13,7 +13,8 @@ please message me if you do try to play/load it, give me knowledge that it loads
 
 ## setup
 
-download vita3k for your system
+download vita3k for your system (https://vita3k.org/download)
+works with most os
 
 follow a tutorial for this, you need to add files to it, there are a bunch of tutorials online, I will probably do something here to help settup at some point
 
@@ -21,7 +22,7 @@ download the zip
 
 press the files button int eh top corner
 
-a dropdown menu will come up, press "Install Archive (.zip/.vpk/.vci)" and chose the zip
+a dropdown menu will come up, press "Install Archive (.zip/.vpk/.vci)" and chose the zip which was downloaded
 <img width="647" height="145" alt="image" src="https://github.com/user-attachments/assets/c711bca2-51c7-4949-b5e4-df8dac315e73" />
 
 
