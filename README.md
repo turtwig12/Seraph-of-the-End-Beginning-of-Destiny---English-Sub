@@ -19,7 +19,11 @@ follow a tutorial for this, you need to add files to it, there are a bunch of tu
 
 download the zip 
 
-import the zip (in files), this should then just work, though I may of just gaslight myself to the zip being formatted correctly  
+press the files button int eh top corner
+
+a dropdown menu will come up, press "Install Archive (.zip/.vpk/.vci)" and chose the zip
+<img width="647" height="145" alt="image" src="https://github.com/user-attachments/assets/c711bca2-51c7-4949-b5e4-df8dac315e73" />
+
 
 ## current stability
 
