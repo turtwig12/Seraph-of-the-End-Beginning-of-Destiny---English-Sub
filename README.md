@@ -36,9 +36,9 @@ press the files button in the top corner and a dropdown menu will come up, press
 ### 3. Installing the game
 download the zip (https://drive.google.com/drive/folders/11vklgX9aFZlkR2JnBRPTcvlp6vYkkdAT?usp=sharing, assuming I remembered to do all the uploads correctly)
 
-press the files button int eh top corner
-
+press the files button in the top corner
 A dropdown menu will come up, press "Install Archive (.zip/.vpk/.vci)" and chose the zip which was downloaded
+
 <img width="647" height="145" alt="image" src="https://github.com/user-attachments/assets/c711bca2-51c7-4949-b5e4-df8dac315e73" />
 
 this can take take a few minutes but then the game should be able to be played and working
