@@ -65,7 +65,3 @@ After importing the zip it can be played, compatibility may show up as Unknown, 
 ## current stability
 
 as of current [12/11/26 d/m/y] up to the end of chapter 4 is stable, with possible errors still in some battle, though it the games loads they can all be complected at the least 
-
-also later wepon names may caouse crash (equipage_list_data.bin) 
-
-4 hourceman of jhon names may casue crash (status_list_data.bin) if do cahnge rank to A++, A, B, etc
