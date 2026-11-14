@@ -15,12 +15,16 @@ please message me if you do try to play/load it, give me knowledge that it loads
 
 
 [![Watch the video](https://github.com/user-attachments/assets/6447b36b-06eb-4f5a-9a93-080ae7581282)](https://youtu.be/lRG7md_rFgw)
+I will admit its a really bad trailer 
 
-
+https://gamefaqs.gamespot.com/vita/178718-owari-no-seraph-unmei-no-hajimari
 
 In 2012, the world allegedly comes to an end at the hands of a "human-made" virus, ravaging the global populace and leaving only children under the age of thirteen untouched. It is at this time that vampires emerge from the recesses of the earth, likely followed by age-old horrors of the dark thought only to be myth. The vampires sweep the earth and claim it in a single violent stroke, subjugating the remnants of humanity and leading them beneath the surface to safety. This "protection" comes at the price of donating blood to their captors. At the age of twelve, Yuuichirou and his friend and fellow orphan Mikaela plotted to escape along with the children in Hyakuya Orphanage. However, this resulted in their deaths and Mikaela sacrifices himself in order for Yuuichirou to escape and be saved by members of the Moon Demon Company, an extermination unit of the Japanese Imperial Demon Army. Four years later, Yuuichiro dedicates his life to destroy vampires and seek revenge against them for murdering his "family"[.](https://vndb.org/v18452)
 
 In the "dramatic tactics battle" game, the player's decisions throughout the game will change the ending. Players level up their bonds with comrades on the battlefield by raising their "family level." When the "family level" rank goes up, players experience a "family event" scene. Characters will get special endings if players build trust with them during battle.
+
+Overall I would say that the game is first and foremost a visual novel with RPG elements strapped on, it is mainly story based but you can play it just zooming through the stories
+It mainly follows the plot of the anime with some deviations for some "new" scenes (I suspect some of them were planed for the anime but were cut)
 
 ## Setup
 There are many video tutorials which probably do as good of a job if not better to help set up the emulator
