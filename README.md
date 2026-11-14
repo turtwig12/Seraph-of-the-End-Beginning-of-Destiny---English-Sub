@@ -26,7 +26,7 @@ In 2012, the world allegedly comes to an end at the hands of a "human-made" viru
 In the "dramatic tactics battle" game, the player's decisions throughout the game will change the ending. Players level up their bonds with comrades on the battlefield by raising their "family level." When the "family level" rank goes up, players experience a "family event" scene. Characters will get special endings if players build trust with them during battle.
 
 Overall I would say that the game is first and foremost a visual novel with RPG elements strapped on, it is mainly story based but you can play it just zooming through the stories
-It mainly follows the plot of the anime with some deviations for some "new" scenes (I suspect some of them were planed for the anime but were cut)
+It mainly follows the plot of the anime with some deviations for some "new" scenes (I suspect some of them were planed for the anime but were cut for some reason)
 
 ## Setup
 There are many video tutorials which probably do as good of a job if not better to help set up the emulator
