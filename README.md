@@ -5,7 +5,7 @@ https://vita3k.org/download
 
 https://drive.google.com/drive/folders/11vklgX9aFZlkR2JnBRPTcvlp6vYkkdAT?usp=sharing
 
-I would highly recomend looking at the controls before playing the game or playing with a controller... it took me like 5 hours to work out how to save and load a save with out
+turtle go burrrrrrrrrrrr
 
 I pretend that the options text does not exist
 
