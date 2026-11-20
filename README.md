@@ -13,6 +13,10 @@ Stability is still an issue that is being worked on but the first two episodes s
 
 please message me if you do try to play/load it, give me knowledge that it loads propaly, also I can help trouble shoot errors on setup if needed
 
+During the creation another English version was made, at current it is probably more stable, a NoNpDrm copy of the game is required
+
+https://gbatemp.net/threads/ai-assistance-bundle-for-translating-a-game-with-the-aid-of-ai.686709/#post-10951379
+
 ## About the game
 
 
