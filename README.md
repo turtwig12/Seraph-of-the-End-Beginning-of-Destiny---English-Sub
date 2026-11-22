@@ -1,6 +1,8 @@
 # Seraph-of-the-End-Beginning-of-Destiny---English-Sub
 A Fan Sub of the PSVita game Seraph of the End: Beginning of Destiny
 
+# big changes to come in like few hours, the game has been cleared
+
 https://vita3k.org/download
 
 https://drive.google.com/drive/folders/11vklgX9aFZlkR2JnBRPTcvlp6vYkkdAT?usp=sharing
