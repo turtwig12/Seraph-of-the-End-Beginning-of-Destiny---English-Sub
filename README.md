@@ -6,6 +6,7 @@ A Fan Sub of the PSVita game Seraph of the End: Beginning of Destiny
 https://vita3k.org/download
 
 https://drive.google.com/drive/folders/11vklgX9aFZlkR2JnBRPTcvlp6vYkkdAT?usp=sharing
+https://mega.nz/file/RBQQUaYR#o1yUUpYEc0pRq1Z_ZlCEPhhWOjkNkaSYllCgID8fVf4
 
 turtle go burrrrrrrrrrrr
 
