@@ -1,7 +1,7 @@
 # Seraph-of-the-End-Beginning-of-Destiny---English-Sub
 A Fan Sub of the PSVita game Seraph of the End: Beginning of Destiny
 
-# big changes to come in like few hours, the game has been cleared
+translations may be rough at some points due to limitations
 
 https://vita3k.org/download
 
@@ -10,9 +10,7 @@ https://mega.nz/file/RBQQUaYR#o1yUUpYEc0pRq1Z_ZlCEPhhWOjkNkaSYllCgID8fVf4
 
 turtle go burrrrrrrrrrrr
 
-I pretend that the options text does not exist
-
-Stability is still an issue that is being worked on but the first two episodes should work... in theory... in game theory
+Stability is pretty good (I think) with just some late game stuff being a bit rough
 
 please message me if you do try to play/load it, give me knowledge that it loads propaly, also I can help trouble shoot errors on setup if needed
 
