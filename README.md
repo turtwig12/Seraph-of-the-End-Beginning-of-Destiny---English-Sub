@@ -6,7 +6,6 @@ translations may be rough at some points due to limitations, particualy text cho
 https://vita3k.org/download
 
 https://drive.google.com/drive/folders/11vklgX9aFZlkR2JnBRPTcvlp6vYkkdAT?usp=sharing
-https://mega.nz/file/RBQQUaYR#o1yUUpYEc0pRq1Z_ZlCEPhhWOjkNkaSYllCgID8fVf4
 
 turtle go burrrrrrrrrrrr
 
@@ -69,4 +68,5 @@ After importing the zip it can be played, compatibility may show up as Unknown, 
 
 ## current stability
 
-as of current [22/11/26 d/m/y] the game has been cleared, there are still a few crashs I know of but are all pretty deep in (freebattle, lunatic)
+As of current [26/11/26 d/m/y] the game has been cleared, it is basically done (hopefully) there are still a few late game things which need changing but no current known crashes 
+https://mega.nz/file/RBQQUaYR#o1yUUpYEc0pRq1Z_ZlCEPhhWOjkNkaSYllCgID8fVf4 (don't use, not up to date, need to update)
