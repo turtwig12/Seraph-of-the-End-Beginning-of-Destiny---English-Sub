@@ -46,7 +46,7 @@ Unzip the folder and open Vita3K
 ### 2. Setting up the Emulator
 <img width="858" height="173" alt="image" src="https://github.com/user-attachments/assets/241dbfde-72b6-48ae-a6bf-7209f27f7ba0" />
 
-Download the firmware (yes all 3, sometimes browsers can complain about the downloading but you can say to keep the files)
+Download the firmware (yes all 3, sometimes browsers can complain about the downloading but you can say to keep the files) sometimes if stuff does not load try a vpn (eg like page not found) if it says privacy issues, you can just go into advanced and continue, if it says failed to download securely, right click it in the download and press keep, if still issues find a tutorial, they will be better at trouble shooting
 
 <img width="583" height="140" alt="image" src="https://github.com/user-attachments/assets/92575916-58f0-450b-8744-101a9aaf65ff" />
 
